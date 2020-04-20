@@ -1,0 +1,17 @@
+body{
+	font: initial;
+}
+form h4{
+	margin:20px;
+}
+hr {
+    border-top: 2px solid darkgrey;
+}
+form{
+background:whitesmoke;
+}
+.tabs-wrapper{
+	margin-top: 15px;
+    margin-bottom: 15px;
+	background-color:whitesmoke;
+}
